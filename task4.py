@@ -271,7 +271,7 @@ def read_first_ciphertext_bytes(filename, size):
 
 # ============================================================
 # MÃ HÓA BUGGY:
-# QUÊN COUNTER
+# FORGOTTEN-COUNTER
 # ============================================================
 
 def encrypt_book_buggy(input_file, output_file, key, prefix):
